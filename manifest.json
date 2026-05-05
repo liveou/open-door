@@ -1,0 +1,15 @@
+{
+  "manifestVersion": 1,
+  "product": "OpenDoorCat",
+  "hardware": "waveshare-esp32-c3-zero",
+  "channel": "stable",
+  "version": "1.0.0",
+  "build": "2026-05-05T11:57:55+08:00",
+  "fileName": "opendoorcat-c3-1.0.0.bin",
+  "url": "__REPLACE_WITH_BIN_URL__",
+  "size": 1278384,
+  "sha256": "25ed1a595e8001aa442623c33efe9175898223b0cc9a14f4dacdc9c668d40ea3",
+  "minAppVersion": "1.0.0",
+  "force": false,
+  "notes": "新增 OTA 升级链路，支持小程序下载固件后通过本地热点上传给设备安装。"
+}
